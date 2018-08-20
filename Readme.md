@@ -19,10 +19,10 @@ react-native run-ios
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Create a .env file with your API key
 
 ```
-Give examples
+API_KEY=your_API_key
 ```
 
 ### Installing
