@@ -7,7 +7,7 @@ Cami est une application pour camionneurs, centrée sur leurs besoins.
 ```
 npm install
 yarn
-
+cd ios && pod install
 ```
 
 Before you do the following, make sure you have an android device running in android studio.
@@ -24,6 +24,8 @@ Create a .env file with your API key
 ```
 API_KEY=your_API_key
 ```
+
+Install cocoapods
 
 ### Installing
 
