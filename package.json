@@ -11,6 +11,7 @@
     "dotenv": "^6.0.0",
     "react": "16.4.1",
     "react-native": "0.56.0",
+    "react-native-fs": "^2.11.15",
     "react-native-maps": "^0.21.0"
   },
   "devDependencies": {
