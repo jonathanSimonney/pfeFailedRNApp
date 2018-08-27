@@ -16,7 +16,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-  //let value = ProcessInfo.processInfo.environment["key"]
+  //printf("%s", "toto");
   
   NSURL *jsCodeLocation;
 
